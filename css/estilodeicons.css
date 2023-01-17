@@ -1,0 +1,26 @@
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ZAP,INSTA,LINKEDIN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+*{
+    margin: 0;
+    padding: 0;
+}.ri-twitter-line{
+    text-decoration: none;
+}
+.ri-linkedin-line{
+    color: #0400ff;
+    text-decoration: none;
+}
+@media (max-width: 1000px) {
+    .todosicon{
+       left: 75%; 
+    }
+    .zap{
+        font-size: larger;
+    }
+    .insta{
+        font-size: medium;
+    }
+    .linkedin{
+        font-size: larger;
+    }
+}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
